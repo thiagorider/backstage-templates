@@ -1,0 +1,186 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.app
+*.slo
+*.lo
+*.pyc
+*.pyo
+*.coffee
+*.litcoffee
+*.log
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Node #
+########
+node_modules/
+npm-debug.log
+
+# Python #
+##########
+*.py[cod]
+*.egg-info/
+*.egg
+__pycache__/
+
+# Ruby #
+#######
+*.gem
+*.rbc
+*.yarb
+*.pid
+*.rid
+*.drb
+.bundle
+.config
+coverage/
+*.rvm
+.ruby-version
+.ruby-gemset
+
+# Java #
+#######
+target/
+*.iml
+*.ipr
+*.iws
+*.dat
+*.war
+*.ear
+*.sar
+*.class
+*.dex
+
+# Dotnet #
+##########
+bin/
+obj/
+
+# macOS #
+#########
+*.DS_Store
+*.AppleDouble
+*.LSOverride
+
+# Xcode #
+#########
+xcuserdata/
+*.moved-aside
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Android #
+###########
+*.apk
+*.aab
+*.hprof
+local.properties
+
+# Gradle #
+#########
+.gradle/
+
+# Maven #
+########
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA #
+#################
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Eclipse #
+##########
+*.pydevproject
+.project
+.metadata
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# Visual Studio Code #
+######################
+.vscode/
+*.code-workspace
+
+# TeX #
+######
+*.aux
+*.out
+*.toc
+*.nav
+*.snm
+*.vrb
+
+# Swift #
+#########
+DerivedData/
+
+# Rust #
+#######
+target/
+**/*.rs.bk
+
+# PHP #
+#######
+vendor/
+composer.lock
+
+# Go #
+######
+*.exe
+*.test
+*.prof
+
+# End of gitignore #
